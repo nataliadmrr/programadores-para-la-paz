@@ -1,8 +1,0 @@
-El uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git comparten una
-base común, la responsabilidad sobre las acciones propias y su impacto en los demás. Así como un ciudadano digital debe verificar lo que comparte para no
-contribuir a la desinformación, un desarrollador debe documentar sus cambios con claridad para que otros puedan entender, auditar y mejorar su trabajo.
-Git, en ese sentido, no es solo una herramienta técnica sino una práctica de transparencia, cada commit registra quién hizo qué y por qué, lo que genera
-trazabilidad y confianza dentro de un equipo, del mismo modo que una fuente verificada genera confianza en el entorno digital. La participación ciudadana
-responsable también exige organización, saber de dónde viene la información, cómo se construyó y quién la respalda. Esa misma lógica está detrás del
-control de versiones. En definitiva, tanto en internet como en el desarrollo de software, actuar con criterio y dejar registro de las decisiones tomadas
-es lo que distingue una participación consciente de una irreflexiva.
