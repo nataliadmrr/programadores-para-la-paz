@@ -1,0 +1,9 @@
+Mantener un registro de cambios con Git es fundamental porque ningún proyecto 
+evoluciona en línea recta, siempre hay correcciones, mejoras, errores inesperados
+y decisiones que se revierten. Sin un sistema de control de versiones, cada cambio
+representaría un riesgo porque no habría forma confiable de volver a un estado anterior 
+que funcionaba correctamente. Git resuelve ese problema registrando cada modificación 
+con su autor, fecha y descripción, lo que genera trazabilidad completa sobre cómo
+creció el proyecto y quién fue responsable de cada decisión. En equipos de
+trabajo esto es aún más crítico, porque varias personas modifican los mismos
+archivos y Git permite integrar esos cambios sin perder el trabajo de nadie.
