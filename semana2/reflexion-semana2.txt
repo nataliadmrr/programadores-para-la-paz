@@ -1,0 +1,9 @@
+Para un desarrollador, saber usar la terminal es una competencia fundamental que impacta
+directamente la eficiencia y la claridad con la que se organiza un proyecto. A diferencia
+de las interfaces gráficas, la terminal permite ejecutar acciones de forma precisa, reproducible
+y rápida, sin depender de menús o clics que pueden variar entre sistemas operativos o versiones
+de software. Navegar entre carpetas, crear archivos, mover recursos y ejecutar scripts desde la
+terminal son operaciones que forman parte del flujo de trabajo diario en cualquier entorno profesional
+de desarrollo. Además, herramientas esenciales como Git, Node.js, Python o los gestores de paquetes 
+funcionan principalmente desde la terminal, por lo que no saber usarla limita directamente el acceso a
+gran parte del ecosistema de desarrollo moderno.
