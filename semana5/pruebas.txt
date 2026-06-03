@@ -1,0 +1,11 @@
+http://localhost:3000
+El servidor responde con el texto "Servidor activo", confirmando que
+está en funcionamiento y escuchando solicitudes en el puerto 3000.
+
+http://localhost:3000/saludo
+El servidor responde con el texto "Hola comunidad", que es el mensaje
+definido para esa ruta específica.
+
+http://localhost:3000/mensaje/juan
+El servidor responde con "Hola juan", tomando el valor "juan" del
+parámetro :nombre definido en la ruta y usándolo en la respuesta.
