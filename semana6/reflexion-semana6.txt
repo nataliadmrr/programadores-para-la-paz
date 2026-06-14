@@ -1,0 +1,16 @@
+Que una plataforma tecnológica pueda recibir reportes de forma
+estructurada es importante porque transforma la participación ciudadana
+en algo concreto y accionable. Cuando un ciudadano puede enviar un
+reporte con un formato definido, como tipo de incidencia y descripción,
+la información llega organizada y lista para ser procesada, almacenada
+o derivada a quien corresponda, sin depender de mensajes informales que
+se pierden en grupos de WhatsApp o publicaciones en redes sociales.
+La estructura también facilita el análisis: si muchos ciudadanos reportan
+el mismo tipo de incidencia, una plataforma puede identificar patrones
+y priorizar respuestas de forma más eficiente. Desde el punto de vista
+técnico, el uso de req.body en Express permite que el servidor reciba
+exactamente los datos que necesita en el formato correcto, lo que reduce
+errores y hace el sistema más confiable. En definitiva, una plataforma
+que recibe información estructurada no solo mejora la gestión interna
+sino que también genera confianza en los ciudadanos, porque sienten que
+su reporte llega a algún lugar y no simplemente desaparece.

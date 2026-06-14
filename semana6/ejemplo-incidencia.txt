@@ -1,0 +1,12 @@
+Ejemplo de JSON para reportar una incidencia ciudadana:
+
+{
+  "tipo": "Acumulación de basuras",
+  "descripcion": "Los habitantes del barrio reportan que hace más de
+  una semana no se realiza recolección de basuras en la calle principal,
+  generando malos olores y riesgo sanitario para la comunidad."
+}
+
+Este JSON se enviaría mediante una petición POST a la ruta
+http://localhost:3000/incidencia, y el servidor respondería confirmando
+que la incidencia fue registrada junto con el tipo y la descripción.
