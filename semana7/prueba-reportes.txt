@@ -1,0 +1,24 @@
+Al enviar una petición POST a http://localhost:3000/reportes con este JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor responde confirmando que el reporte fue registrado y devuelve
+el objeto con su id asignado automáticamente.
+
+Luego al consultar GET http://localhost:3000/reportes, el servidor devuelve
+la lista completa de reportes registrados durante esa sesión:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Si se detiene el servidor y se vuelve a iniciar, la lista aparece vacía
+porque los datos solo se mantienen en memoria mientras el servidor está
+encendido.

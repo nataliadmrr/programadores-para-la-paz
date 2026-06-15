@@ -1,0 +1,16 @@
+Que una comunidad pueda registrar y consultar reportes en una plataforma
+tecnológica es importante porque convierte la participación ciudadana en
+algo concreto y rastreable. Sin una herramienta de este tipo, los problemas
+se reportan por mensajes informales que se pierden fácilmente y a los que
+nadie da seguimiento sistemático. Un sistema de reportes organizado permite
+que cada incidencia quede registrada con un identificador, un tipo y una
+descripción, lo que facilita su consulta posterior y la asignación de
+responsables para resolverla. También permite identificar patrones: si
+muchos ciudadanos reportan el mismo tipo de problema en poco tiempo, eso
+es una señal clara de que hay una situación que requiere atención prioritaria.
+Desde el punto de vista técnico, esta semana aprendí que un array en memoria
+puede funcionar como almacenamiento temporal mientras no haya una base de
+datos disponible, lo que demuestra que se puede construir un sistema funcional
+por etapas. En definitiva, una plataforma de reportes no solo mejora la
+gestión de problemas comunitarios sino que también fortalece la confianza
+entre los ciudadanos y quienes tienen la responsabilidad de atenderlos.
