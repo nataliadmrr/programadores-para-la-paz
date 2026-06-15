@@ -1,0 +1,17 @@
+Que una plataforma tecnológica comunitaria funcione de manera estable
+y segura en un servidor es fundamental porque las comunidades dependen
+de ella para reportar incidencias, consultar información y participar
+en procesos colectivos. Si el servidor cae o responde de forma
+intermitente, la confianza de los usuarios se pierde rápidamente y
+la participación disminuye. La estabilidad también es una cuestión de
+responsabilidad: cuando una persona envía un reporte o comparte
+información sensible, espera que ese dato llegue correctamente y quede
+protegido, lo que no es posible si el servidor es inestable o no tiene
+medidas de seguridad básicas. Desde lo aprendido esta semana, entiendo
+que un servidor no es solo un programa que responde solicitudes, sino
+un sistema que debe monitorearse, registrar su actividad mediante logs
+y estar configurado para recuperarse ante fallos. En el contexto de
+comunidades con recursos limitados, esto cobra más importancia porque
+no siempre hay un equipo técnico disponible para reaccionar ante una
+caída, por lo que construir desde el inicio con criterios de estabilidad
+es la mejor forma de garantizar que la plataforma cumpla su propósito.
