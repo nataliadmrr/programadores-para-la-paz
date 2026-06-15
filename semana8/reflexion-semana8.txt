@@ -1,0 +1,15 @@
+La seguridad digital es fundamental para proteger plataformas tecnológicas
+comunitarias porque estas manejan información sensible de personas reales:
+reportes, datos de contacto, ubicaciones y situaciones que podrían
+perjudicar a alguien si caen en manos equivocadas. A diferencia de una
+plataforma comercial que tiene equipos especializados en seguridad, una
+plataforma comunitaria generalmente la administran personas con recursos
+limitados, lo que hace que las buenas prácticas desde el inicio sean aún
+más importantes. Un error básico como dejar credenciales expuestas en el
+código o no usar conexiones cifradas puede comprometer toda la información
+que los ciudadanos confiaron al sistema. Desde lo aprendido esta semana,
+entender cómo funciona Linux y la terminal es el primer paso para poder
+administrar un servidor de forma responsable, porque la mayoría de los
+servidores web corren sobre sistemas Linux y saber moverse en ellos es
+una habilidad esencial para cualquier desarrollador que quiera desplegar
+y mantener aplicaciones seguras en entornos reales.
