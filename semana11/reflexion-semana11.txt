@@ -1,0 +1,14 @@
+Una plataforma de participación ciudadana necesita base de datos,
+autenticación y protección de información porque sin estos tres elementos
+no puede funcionar de forma responsable ni sostenible. La base de datos
+es lo que permite que los reportes, causas o incidencias registradas
+persistan en el tiempo y puedan ser consultadas, analizadas y gestionadas
+por quienes corresponde. Sin ella, toda la información desaparece cuando
+el servidor se reinicia, como vimos en semanas anteriores con el array
+en memoria. La autenticación es necesaria porque no toda la información
+debe estar disponible para cualquier persona: un coordinador necesita
+ver datos que un visitante anónimo no debería poder consultar, y sin
+control de acceso esa distinción no es posible. Finalmente, proteger
+la información sensible no es solo una buena práctica técnica sino una
+obligación ética cuando se trabaja con datos de personas reales que
+confiaron en la plataforma para participar.

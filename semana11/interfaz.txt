@@ -1,0 +1,15 @@
+La interfaz de la plataforma comunitaria tendría una estructura simple
+organizada en dos secciones principales.
+
+La primera sección sería un formulario para registrar una nueva incidencia,
+con campos para el tipo de problema, una descripción y la fecha del reporte.
+Al enviar el formulario, el sistema confirmaría que el reporte fue recibido.
+
+La segunda sección mostraría una lista de incidencias registradas, visible
+para los coordinadores autenticados. Cada incidencia mostraría el tipo,
+la descripción, la fecha y su estado actual (pendiente, en revisión o
+resuelto), junto con un botón para actualizar ese estado.
+
+La interfaz debe ser clara y sencilla, funcionar correctamente desde
+un celular básico y no mostrar datos personales de quienes registraron
+los reportes, protegiendo así la privacidad de los ciudadanos.

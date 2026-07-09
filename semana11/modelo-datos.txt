@@ -1,0 +1,28 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Guardar los reportes de incidencias registrados por los ciudadanos,
+permitiendo hacer seguimiento al estado de cada uno y consultar
+el historial de problemas reportados en la comunidad.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- contrasena_hash
+- rol
+
+Propósito:
+Registrar los usuarios que pueden acceder a la plataforma, diferenciando
+entre ciudadanos que reportan incidencias y coordinadores que gestionan
+y dan seguimiento a los reportes recibidos.
