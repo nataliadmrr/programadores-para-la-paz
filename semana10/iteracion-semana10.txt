@@ -1,0 +1,18 @@
+Tareas prioritarias de la primera iteración:
+
+1. Registro de incidencias (historia de usuario 1)
+2. Consulta de reportes (historia de usuario 2)
+
+¿Por qué son las más importantes?
+Estas dos tareas son la base del sistema: sin poder registrar y consultar
+reportes, ninguna otra funcionalidad tiene sentido. La alerta en Telegram
+o los filtros por tipo dependen de que primero existan datos en el sistema.
+Empezar por lo esencial permite tener algo funcional rápido y probarlo
+con usuarios reales antes de agregar más funcionalidades.
+
+Definición de terminado:
+Una tarea está terminada cuando cumple estos criterios:
+1. Funciona correctamente y responde como se esperaba.
+2. Fue probada con al menos un caso real usando Thunder Client o el navegador.
+3. El código quedó registrado en Git con un commit descriptivo.
+4. No expone datos sensibles ni credenciales en el repositorio.

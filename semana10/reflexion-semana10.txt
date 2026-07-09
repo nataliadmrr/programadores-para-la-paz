@@ -1,0 +1,15 @@
+Las metodologías ágiles, la automatización y canales como Telegram
+pueden transformar la forma en que una comunidad organiza su participación
+porque introducen estructura sin rigidez, en lugar de planear todo desde
+el inicio, permiten avanzar por iteraciones, entregar resultados rápidos
+y ajustar según lo que la comunidad realmente necesita. Un backlog de
+historias de usuario, por ejemplo, obliga a pensar desde la perspectiva
+de quien va a usar el sistema y no solo desde la perspectiva técnica,
+lo que genera soluciones más pertinentes y útiles. La automatización con
+herramientas como n8n reduce la carga operativa del equipo coordinador,
+en lugar de revisar manualmente si llegaron nuevos reportes, el sistema
+notifica automáticamente, lo que libera tiempo para atender los problemas
+en lugar de administrarlos. Telegram como canal de coordinación es
+especialmente valioso en contextos comunitarios porque es accesible,
+gratuito y funciona desde cualquier celular, lo que reduce las barreras
+de participación.

@@ -1,0 +1,17 @@
+Historias de usuario - Sistema de veeduría comunitaria
+(ordenadas de mayor a menor prioridad)
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia
+   del problema y que quede disponible para seguimiento.
+
+2. Como coordinador quiero consultar todos los reportes registrados
+   para hacer seguimiento organizado de las incidencias activas.
+
+3. Como coordinador quiero recibir una alerta en Telegram cuando se
+   registre un nuevo reporte para poder revisarlo oportunamente.
+
+4. Como miembro del equipo quiero filtrar reportes por tipo de incidencia
+   para identificar los problemas más frecuentes en la comunidad.
+
+5. Como ciudadano quiero recibir una confirmación cuando mi reporte es
+   recibido para saber que la información llegó correctamente.
