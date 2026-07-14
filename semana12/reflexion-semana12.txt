@@ -1,0 +1,17 @@
+Durante este curso aprendí que la tecnología no es solo una herramienta
+técnica sino un medio concreto para fortalecer la participación ciudadana
+cuando se diseña con ese propósito desde el inicio. Comprender cómo
+funciona un servidor, cómo se estructuran los datos, cómo se protegen
+las credenciales y cómo se automatizan notificaciones me permitió ver
+que detrás de cualquier plataforma comunitaria hay decisiones técnicas
+que tienen impacto directo en la confianza y la seguridad de quienes
+la usan. También entendí que construir por iteraciones, como proponen
+las metodologías ágiles, es más honesto y efectivo que intentar tener
+todo perfecto desde el principio: cada semana fue una capa que se sumó
+a la anterior, y ese proceso refleja cómo funciona el desarrollo real.
+Lo más valioso fue conectar cada concepto técnico con un contexto
+comunitario concreto: una API no es solo código, es la puerta por donde
+un ciudadano puede reportar un problema; un commit no es solo un registro,
+es trazabilidad y responsabilidad sobre el trabajo hecho. Salgo del curso
+con una visión más clara de cómo la ingeniería de software puede ponerse
+al servicio de comunidades reales.

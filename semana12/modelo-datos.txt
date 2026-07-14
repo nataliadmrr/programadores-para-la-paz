@@ -1,0 +1,26 @@
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Almacenar las causas comunitarias creadas por los ciudadanos.
+Cada causa tiene un identificador único que permite vincularla
+con los apoyos que recibe.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar cada apoyo recibido por una causa, vinculándolo mediante
+causa_id. Permite contar los apoyos totales y generar el documento
+formal con la información de respaldo ciudadano.
